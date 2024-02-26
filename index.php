@@ -35,8 +35,8 @@
                 ),
                 array(
                     "date" => "2024-02-19",
-                    "title" => "Exploring New Places",
-                    "content" => "I went on an adventure today, exploring new places and experiencing new cultures. It was an enriching experience that broadened my horizons."
+                    "title" => "Premier article",
+                    "content" => "Chaque jour nous noterons l'avancée de différents projets ayant notamment trait à l'informatique. Le prochain article synthétisera les projets déjà réalisés voire achevés à ce jour."
                 ),
                 // Add more posts as needed
             );
